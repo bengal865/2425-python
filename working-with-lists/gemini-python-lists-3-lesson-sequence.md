@@ -145,4 +145,4 @@
 **Discussion Questions:**
 
 - What are some potential consequences of index errors?
-- How can sorting and reversing lists be helpful in certain programming situations?
+- How can sorting and reversing lists be helpful in certain situations?
