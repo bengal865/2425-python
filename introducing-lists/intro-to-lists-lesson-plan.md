@@ -1,9 +1,9 @@
 # Lesson Plan 1: Intro to Python Lists (45 minutes)
-**Key Terms and Concepts:**
--   List
--   Index
--   Ordered Collection
--   Mutable (Changeable) Data Structure
+## Key Terms and Concepts:**
+- List
+- Index
+- Ordered Collection
+- Mutable (Changeable) Data Structure
 **Lesson Outline:**
 **Introduction (Hook - 5 minutes)**
 -   Play a quick game of "Would you Rather?" with a twist. Ask students two scenarios where they would need to organize a collection of items. (e.g., Packing a backpack for school vs. packing a suitcase for vacation). Discuss the advantages of having an organized list for each scenario.
