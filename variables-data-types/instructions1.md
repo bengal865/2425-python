@@ -14,7 +14,12 @@
 
 ## General Specifications
 
-- Add a comment block (name, date, project name) to your project files (HTML, CSS, JS, Python)
+- Add a comment block 
+```python
+# Abraham Lincoln
+# 24 MAR 20XX
+# Intro to Python Variables
+```
 - Use short, descriptive filenames
 - Write your filenames in lowercase
 
