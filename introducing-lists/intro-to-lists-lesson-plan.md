@@ -1,5 +1,5 @@
 # Lesson Plan: Intro to Python Lists (45 minutes)
-## Key Terms and Concepts:
+## Key Terms & Concepts:
 - List
 - Index
 - Ordered Collection
@@ -36,8 +36,8 @@
 -   How can lists be used to make our programs more organized?
 
 
-## Lesson Plan 2: Adventures in Indexing (45 minutes)
-### Key Terms and Concepts:
+## Lesson Plan 2.0: Indexing List Items (45 minutes)
+### Key Terms & Concepts:
 -   Index
 -   Accessing List Elements
 -   Positive and Negative Indexing
