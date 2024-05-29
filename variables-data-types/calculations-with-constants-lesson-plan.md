@@ -1,4 +1,4 @@
-# Lesson Plan 3: Performing Calculations and Using Constants (45 minutes)
+# Lesson Plan: Performing Calculations and Using Constants (45 minutes)
 
 **Target Audience**: 11th & 12th Grade Computer Science  
 **Topic**: Performing Calculations and Using Constants in Python  
