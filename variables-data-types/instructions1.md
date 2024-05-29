@@ -33,4 +33,4 @@
 - Read instructions and review the project resources
 - Create a GitHub repo named: **repo name**
     - Upload your project files to the repo
-    - Sumbit the URL to your repo on Google Classroom
+    - Submit the URL to your repo on Google Classroom
