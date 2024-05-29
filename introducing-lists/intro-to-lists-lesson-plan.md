@@ -1,4 +1,4 @@
-# Lesson Plan 1: Intro to Python Lists (45 minutes)
+# Lesson Plan: Intro to Python Lists (45 minutes)
 ## Key Terms and Concepts:
 - List
 - Index
