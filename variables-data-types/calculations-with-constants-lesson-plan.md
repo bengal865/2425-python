@@ -40,7 +40,7 @@
 
 ## Activities (5 minutes):
 
-### "Calculator Challenge" (5 minutes):
+### Calculator Challenge (5 minutes):
 - The teacher displays simple math expressions on the board (e.g., `2 * (3 + 5)`).
 - Students take turns evaluating the expressions mentally or using calculators, considering the order of operations.
 
