@@ -1,4 +1,4 @@
-﻿**Python Lists Unit: A Three-Lesson Journey**
+﻿**UNIT: Python Lists: A Three-Lesson Journey**
 
 ## Lesson 1: Getting to Know Python Lists (45 minutes)
 
