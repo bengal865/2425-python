@@ -8,7 +8,7 @@
 
 - Playa quick game of "Would you Rather?"with a twist, highlighting the need for organized lists in different scenarios (e.g., packing for school vs. packing for vacation).
 
-**MiniLesson (8 minutes):**
+**Mini Lesson (8 minutes):**
 
 - Introduce lists as ordered collections of items in Python.
 - Demonstrate creating lists using square brackets [] and separating items with commas.
@@ -52,7 +52,7 @@
 - Why is the order of items important in a list?
 - How can lists help make scripts more organized?
 
-**Lesson 2: Adventures in Indexing (45 minutes)\*\***
+**Lesson 2: Adventures in Indexing (45 minutes)**
 
 - **Key Terms and Concepts:** Index, Accessing Elements, Positive/Negative Indexing, Slicing **Introduction (Hook- 5 minutes):**
 - Present a scrambled list of movie quotes and challenge students to put them in the correct order, emphasizing the importance of knowing element positions.
