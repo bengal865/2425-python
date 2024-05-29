@@ -54,7 +54,7 @@
 ## Guided Practice (15 minutes):
 -   (5 minutes) Students complete a worksheet with practice problems on accessing elements from a list using positive indexing.
 -   (10 minutes) Introduce negative indexing (starting from the end of the list) and slicing (extracting a sublist) with examples. Students practice using these techniques in pairs.
-**Station Rotations (12 minutes - 3 minutes per station):
+## Station Rotations (12 minutes - 3 minutes per station):
 -   Station 1: Index Hunt (Students are given a list and a set of instructions to find specific elements using indexing and slicing).
 -   Station 2: Secret Message (Students write a short program to decode a scrambled message stored in a list using slicing).
 -   Station 3: List Builders (Students take turns adding or removing elements from a list based on specific index positions).
