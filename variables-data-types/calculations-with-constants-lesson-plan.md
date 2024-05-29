@@ -38,3 +38,25 @@
    - Demonstrate creating constants using uppercase variable names by convention.
    - Students practice using constants in their code for calculations (e.g., `area_of_circle = PI * radius**2`).
 
+## Activities (5 minutes):
+
+### "Calculator Challenge" (5 minutes):
+- The teacher displays simple math expressions on the board (e.g., `2 * (3 + 5)`).
+- Students take turns evaluating the expressions mentally or using calculators, considering the order of operations.
+
+### Independent Practice (Homework - 10 minutes):
+- Students create a Python program that calculates the area and perimeter of a rectangle.
+- They should prompt the user for the rectangle's length and width (using `input()`).
+- Perform the calculations and display the results with appropriate labels.
+- Encourage them to use constants for values like π (for area calculation).
+
+## Assessment:
+- Review student work from the Guided Practice and Independent Practice activities.
+- Observe student participation in class discussions and activities.
+
+## Differentiation:
+- **Advanced Students**:
+  - Challenge them to explore more complex calculations (e.g., volume of geometric shapes) and explore built-in math functions (e.g., `round()`).
+- **Struggling Students**:
+  - Provide scaffolding with pre-written code examples or use a step-by-step approach for calculations.
+  - Offer one-on-one guidance during practice activities.
