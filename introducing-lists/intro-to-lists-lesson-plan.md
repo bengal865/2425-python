@@ -17,7 +17,7 @@
 ## Guided Practice (15 minutes):**
 -   (5 minutes) Kick off a pair-and-share activity where students create lists for different scenarios (e.g., grocery shopping list, favorite movies list, video game characters).
 -   (10 minutes) Instruct students to write a short Python program that creates a list of their favorite hobbies and then prints each hobby using a for loop. (Teacher circulates to provide support)
-##Station Rotations (12 minutes - 3 minutes per station):
+## Station Rotations (12 minutes - 3 minutes per station):
 -   Station 1: List Challenge (Students are given pre-written code with a list containing errors. They need to identify and fix the errors).
 -   Station 2: Mystery List (Students use print statements strategically to guess what's inside a predefined list).
 -   Station 3: List Relay (Students take turns adding or removing items from a list based on teacher instructions).
