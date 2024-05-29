@@ -54,7 +54,9 @@
 
 ## Lesson 2: Adventures in Indexing (45 minutes)
 
-- **Key Terms and Concepts:** Index, Accessing Elements, Positive/Negative Indexing, Slicing **Introduction (Hook- 5 minutes):**
+- **Key Terms & Concepts:** Index, Accessing Elements, Positive/Negative Indexing, Slicing
+
+**Introduction (Hook- 5 minutes):**
 - Present a scrambled list of movie quotes and challenge students to put them in the correct order, emphasizing the importance of knowing element positions.
 
   **Mini Lesson (8 minutes):**
@@ -88,7 +90,7 @@
 
 ## Lesson 3: Mastering the List (45 minutes)
 
-- **Key Terms and Concepts:** Modifying Lists, append(), insert(), remove(), pop(), sort(), sorted(), how to reverse lists
+- **Key Terms & Concepts:** Modifying Lists, append(), insert(), remove(), pop(), sort(), sorted(), how to reverse lists
 
 **Introduction (Hook- 5 minutes):**
 
