@@ -6,7 +6,7 @@
 
 **Introduction (Hook- 5 minutes):**
 
-- Playa quick game of "Would you Rather?"with a twist, highlighting the need for organized lists in different scenarios (e.g., packing for school vs. packing for vacation).
+- Play a quick game of "Would you Rather?"with a twist, highlighting the need for organized lists in different scenarios (e.g., packing for school vs. packing for vacation).
 
 **Mini Lesson (8 minutes):**
 
