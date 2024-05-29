@@ -1,6 +1,6 @@
 ﻿**Python Lists Unit: A Three-Lesson Journey**
 
-**Lesson 1: Getting to Know Python Lists (45 minutes)**
+## Lesson 1: Getting to Know Python Lists (45 minutes)
 
 - **Key Terms & Concepts:** List, Index, Ordered Collection, Mutable
 
@@ -52,7 +52,7 @@
 - Why is the order of items important in a list?
 - How can lists help make scripts more organized?
 
-**Lesson 2: Adventures in Indexing (45 minutes)**
+## Lesson 2: Adventures in Indexing (45 minutes)
 
 - **Key Terms and Concepts:** Index, Accessing Elements, Positive/Negative Indexing, Slicing **Introduction (Hook- 5 minutes):**
 - Present a scrambled list of movie quotes and challenge students to put them in the correct order, emphasizing the importance of knowing element positions.
@@ -86,7 +86,7 @@
 
 - Create a list of favorite books and use indexing to print the title of specific books
 
-**Lesson 3: Mastering the List (45 minutes)**
+## Lesson 3: Mastering the List (45 minutes)
 
 - **Key Terms and Concepts:** Modifying Lists, append(), insert(), remove(), pop(), sort(), sorted(), how to reverse lists
 
