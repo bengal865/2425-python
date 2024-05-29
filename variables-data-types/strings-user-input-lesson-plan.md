@@ -42,5 +42,5 @@
 ### Activities (10 minutes):
 - **"Story Builder" (5 minutes)**:
   - The class collaboratively writes a short story, taking turns adding sentences using string manipulation techniques learned during the lesson.
-  - Encourage creativity and engagement!
+ 
 
