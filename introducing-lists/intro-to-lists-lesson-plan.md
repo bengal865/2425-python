@@ -8,8 +8,10 @@
 - Mutability
 **Lesson Outline:**
 **Introduction (Hook - 5 minutes):**
-- Play a quick game of "Would you rather?" with a twist! Instead of two choices, present three options that involve organizing items. (e.g., Organize your music library alphabetically, by genre, or by artist?) Discuss the advantages and disadvantages of each method.
--   Introduce the concept of lists in Python as a way to organize collections of items in a specific order.
+- Play a quick game of "Would you rather?" with a twist!
+- Instead of two choices, present three options that involve organizing items. (e.g., Organize your music library alphabetically, by genre, or by artist?)
+- Discuss the advantages and disadvantages of each method.
+- Introduce the concept of lists in Python as a way to organize collections of items in a specific order.
 **Mini Lesson (10 minutes):**
 -   Explain how to create lists using square brackets \[\] and separate elements with commas.
 -   Demonstrate accessing individual elements using index notation list\[index\], emphasizing that indexing starts at 0.
