@@ -25,9 +25,9 @@ perimeter = (2 * length) + (2 * width)
 area = length * width
 
 print ('################################################')
-print ('Author: Bruce Provencher')
-print ('Project: Room Perimeter & Area Calculations')
-print ('Date: 17 NOV 2012')
+print ('Bruce Provencher')
+print ('Room Perimeter & Area Calculations')
+print ('17 NOV 20XX')
 print ('################################################')
 print 
 print 
