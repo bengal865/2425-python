@@ -5,7 +5,7 @@ Project: Variable Demonstration
 '''
 
 # Define a variable named age and
-# store the value 17 inside it / assign the value 17 to it
+# assign the value 17 to it
 age = 17
 
 # Use the print ( ) function to tell Python to 
