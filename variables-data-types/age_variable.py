@@ -1,6 +1,6 @@
 '''
 Programmer: Bruce Provencher
-Date: 08 SEP 2020
+Date: 08 SEP 20XX
 Project: Variable Demonstration
 '''
 
