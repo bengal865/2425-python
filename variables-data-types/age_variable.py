@@ -1,7 +1,7 @@
 '''
-Programmer: Bruce Provencher
-Date: 08 SEP 20XX
-Project: Variable Demonstration
+Mike Jenkins
+08 SEP 20XX
+Variable Demonstration
 '''
 
 # Define a variable named age and
