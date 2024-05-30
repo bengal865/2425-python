@@ -7,4 +7,4 @@ print("Hello Python people!")
 
 # You can also comment out code (make it temporarily invisible to Python)
 print("Now you see me, Python!")
-# print("And now you don't!")
+# print("And now you don't! Ha! Take that!")
