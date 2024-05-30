@@ -3,7 +3,7 @@
 ## Overview
 In this lesson, students will learn how to use **if statements** to manipulate Python lists. We'll cover checking for specific elements, ensuring a list is not empty, and comparing the contents of two lists. The lesson aligns with the **Michigan K-12 Computer Science Standards**.
 
-## Key Terms and Concepts
+## Key Terms & Concepts
 - **If statement**: A conditional statement that allows us to execute different code blocks based on whether a condition is true or false.
 - **Python list**: An ordered collection of items, enclosed in square brackets (`[]`).
 
