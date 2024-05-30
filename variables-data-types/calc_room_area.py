@@ -25,14 +25,14 @@ print ('Bruce Provencher')
 print ('Room Perimeter & Area Calculations')
 print ('17 NOV 20XX')
 print ('################################################')
-print 
-print 
+print ()
+print ()
 print ('The perimeter of the room is ' + str(perimeter) + ' meters.')
-print 
-print 
+print ()
+print ()
 print ('The area of the rectanguar room is ' + str(area) + ' square meters.')
-print 
-print 
+print ()
+print ()
 print ('End of program')
 
 input("\n\nPress the ENTER key to exit.")
