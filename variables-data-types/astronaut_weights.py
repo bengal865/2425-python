@@ -1,7 +1,7 @@
 ####################################
-# Author: Bruce Provencher
-# Project: Astronaut Weights
-# Date: 24 APR 2018
+# Bruce Provencher
+# Astronaut Weights
+# 24 APR 20XX
 ####################################
 
 # This is a comment!
