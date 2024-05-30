@@ -1,6 +1,6 @@
 # Alyssa Tarkowski
 # 20 OCT 20XX
-# Using Comments in Python
+# Three Ways to Use Comments
 
 # Say hello to everyone
 print("Hello Python people!")
