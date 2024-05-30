@@ -5,6 +5,6 @@
 # Say hello to everyone
 print("Hello Python people!")
 
-# You can also comment out code (make it temporarily invisible to Python)
+# You can also use comments to comment out code, i.e., make it temporarily invisible to Python
 print("Now you see me, Python!")
 # print("And now you don't! Ha! Take that!")
