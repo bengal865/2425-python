@@ -1,8 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-#
-# calcdimensions.py
-# Calculates the perimeter and area of a rectangular room
+# Script to calculate the perimeter and area of a rectangular room
 
 # w represents the room's width
 # l represents the room's length
