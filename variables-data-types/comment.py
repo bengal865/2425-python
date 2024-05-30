@@ -1,6 +1,6 @@
 # Alyssa Tarkowski
 # 20 OCT 20XX
-# Python Print Function
+# Using Comments in Python
 
 # Say hello to everyone
 print("Hello Python people!")
