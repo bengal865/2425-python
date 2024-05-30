@@ -64,4 +64,4 @@
 
 1. Why is inheritance a useful concept in object-oriented programming? (**Answer:** It promotes code reuse, reduces redundancy, and allows for creating specialized classes from general ones.)
 2. What happens when a method is overridden in a subclass? (**Answer:** The subclass's definition of the method takes precedence over the inherited version from the superclass.)
-2. Can a subclass access attributes
+3. Can a subclass access attributes and methods defined in the superclass? (Answer: Yes, a subclass inherits all attributes and methods from the superclass. It can access and use them directly, or override them if needed.)
