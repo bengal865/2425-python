@@ -81,4 +81,10 @@ def __init__(self, name, breed, age):  # This is the constructor method
 **8. Differentiation:**
 
 - **Advanced Students:** Challenge them to write methods within the class definition (Station 3) or explore inheritance in Python (creating subclasses from existing classes).
-- **Struggling Students:** Provide additional support during guided practice and station rotations. Offer scaffolding questions
+- **Struggling Students:** Provide additional support during guided practice and station rotations. Offer scaffolding questions.
+
+
+**Discussion Questions:**
+1. Why would you use a class in Python instead of just variables and lists? (Classes promote code reusability, organization, and encapsulation of data and behavior.)
+2. What is the difference between a class and an object? (A class is the blueprint, while an object is a specific instance created from that blueprint.)
+3. Briefly explain the role of the constructor method (__init__) in a class. (The constructor initializes the attributes for each object created from the class.)
