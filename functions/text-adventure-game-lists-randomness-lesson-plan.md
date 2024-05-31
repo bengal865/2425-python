@@ -35,6 +35,7 @@
 - [GitHub: Writing a Text-Based Adventure Game in Python](https://gist.github.com/dougmcnally/06fa0533a893b6e85222bb4f4645940f)
 - [YT: Writing a Text-Based Adventure Game in Python](https://youtu.be/miuHrP2O7Jw?feature=shared)
 - [Leon Mardsen/Making an Adventure Game in Python YT](https://youtu.be/EbAdsK8s0-U?feature=shared)
+- [Dante Lee: Text-Based Dungeon Game YT tutorial](https://youtu.be/lI6S2-icPHE?feature=shared)
 
 **Guided Practice Activities (22 minutes):**
 
