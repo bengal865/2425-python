@@ -26,6 +26,7 @@
 
 - [Python strings](https://www.w3schools.com/python/python_strings.asp)
 - [How to concatenate strings in Python](https://www.w3schools.com/python/python_strings_concatenate.asp)
+- [Converting strings to upper- and lowercase](https://www.programiz.com/python-programming/methods/string/upper)
 
 ## Writing Your Script
 
