@@ -7,7 +7,7 @@
 > - Students will convert user input to integers and floats using the built-in Python `int( )` and `float(  )` functions
 
 ## Submitting Your Work
-- Create a new GitHub repository: `strings-practice-python`
+- Create a GitHub repository: `strings-practice-python`
 - Upload your script to your repo
 - Submit the URL that points to your repo on Google Classroom
 
