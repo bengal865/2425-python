@@ -33,4 +33,4 @@
     - Assign your first and last name to two string variables
     - Create a third variable `full_name`
     - Use the concatenation operator (+) to assign your first and last names to the variable `full_name`
-    - Then tell Python to use *f-strings* to print your first name in a sentence, your last name in a sentence, and your full name in a sentence
+    - Then use concatenation to print your first name in a sentence, your last name in a sentence, and your full name in a sentence
