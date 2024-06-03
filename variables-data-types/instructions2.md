@@ -2,9 +2,9 @@
 
 ## Objective
 
-> Students will learn how to assign a string to a Python variable
-> Students will use the `input ( )` function to get input from the user
-> Students will convert user input to integers and floats using the built-in Python `int( )` and `float(  )` functions
+> - Students will learn how to assign a string to a Python variable
+> - Students will use the `input ( )` function to get input from the user
+> - Students will convert user input to integers and floats using the built-in Python `int( )` and `float(  )` functions
 
 
 ## General Specifications
