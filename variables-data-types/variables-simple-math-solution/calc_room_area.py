@@ -20,11 +20,11 @@ perimeter = (2 * length) + (2 * width)
 
 area = length * width
 
-print ('################################################')
+print ('#' * 48)
 print ('Bruce Provencher')
 print ('Room Perimeter & Area Calculations')
 print ('17 NOV 20XX')
-print ('################################################')
+print ('#' * 48)
 print ()
 print ()
 print ('The perimeter of the room is ' + str(perimeter) + ' meters.')
