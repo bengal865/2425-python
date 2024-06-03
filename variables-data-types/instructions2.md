@@ -38,4 +38,4 @@
     - Define a variable `city` and then use the input function to ask the user which city in Michigan they live in
     - Use concatenation to display a sentence that says which city the user lives in
     - Define a variable `hourly_wage` and use the `float()` and `input()` functions together to ask the user what their hourly wage is at Burger King; also use the `input()` function to get the user's first name; use concatenation to build a custom string that includes the user's first name and hourly wage
-      > `Mikey earns $14.50 an hour at Burger King.`
+      > Example: `Mikey earns $14.50 an hour at Burger King.`
