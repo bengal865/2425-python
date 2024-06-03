@@ -20,8 +20,8 @@
 
 ## Resources & Examples
 
-- http://www.example.com
-- https://www.washingtonpost.com/
+- [Python strings](https://www.w3schools.com/python/python_strings.asp)
+- [How to concatenate strings in Python](https://www.w3schools.com/python/python_strings_concatenate.asp)
 
 ## Project Tasks
 
