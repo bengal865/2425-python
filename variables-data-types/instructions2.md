@@ -1,16 +1,11 @@
-
-# Name of Assignment
+# Intro to Python Strings
 
 ## Objective
 
-> *Objective*
+> Students will learn how to assign a string to a Python variable
+> Students will use the `input ( )` function to get input from the user
+> Students will convert user input to integers and floats using the built-in Python `int( )` and `float(  )` functions
 
-
-## Sample Output
-
-![Albuquerque, New Mexico](nm-desert1.jpg)
-
-*Desert landscape in New Mexico.*
 
 ## General Specifications
 
@@ -18,7 +13,7 @@
 ```python
 # Abraham Lincoln
 # 24 MAR 20XX
-# Intro to Python Variables
+# Intro to Python Strings
 ```
 - Use short, descriptive filenames
 - Write your filenames in lowercase
