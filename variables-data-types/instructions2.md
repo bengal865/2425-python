@@ -9,7 +9,7 @@
 
 ## General Specifications
 
-- Add a comment block 
+- Add a comment block to your script
 ```python
 # Abraham Lincoln
 # 24 MAR 20XX
