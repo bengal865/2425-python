@@ -8,6 +8,7 @@ first_num = float(input('Enter your first number: (Example: 20.8)\n'))
 second_num = float(input('Enter a second number: (Example:14)\n'))
 
 # Process the input
+# Using modulus operator (%) to get the remainder 
 answer = first_num % second_num
 
 # Generate output (show the answer)
