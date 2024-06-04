@@ -31,4 +31,4 @@
     - Basic: [Provide additional practice exercises with step-by-step guidance.]
  
 ## Follow-Up:
-    - [List any follow-up activities related to this lesson.]
+    - List any follow-up activities related to this lesson.
