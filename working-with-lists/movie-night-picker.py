@@ -23,6 +23,7 @@ try:
   # Attempt to remove the genre from the list
   genres.remove(genre)
   print(f'Removed the genre {genre} from the genres list.')
+  print(genres)
 except ValueError:
   print("Sorry, the genres list is empty!")
   print(f"Can't remove the selected genre -- {genre} -- from an empty list.")
