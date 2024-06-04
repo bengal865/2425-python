@@ -11,7 +11,7 @@ genre = random.choice(genres)
 print(f'The movie genre selected at random was: {genre}')
 
 # Remove a genre from the list if the list isn't empty
-if len(genre) > 0:
+if len(genres) > 0:
   genres.remove(genre)
   print(f'Removed the genre {genre} from the genres list.')
 else:
