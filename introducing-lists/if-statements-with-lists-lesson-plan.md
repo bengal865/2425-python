@@ -132,6 +132,25 @@ for lang in programming_languages:
 
 
 ```
+```python
+# Check to see if student is in Biology 1 and either Biology 2 or Biology 3
+def check_student_enrollment(student, biology_1, biology_2, biology_3):
+    return student in biology_1 and (student in biology_2 or student in biology_3)
+
+# Example usage:
+biology_1 = ["Alice", "Bob", "Charlie"]
+biology_2 = ["Bob", "David", "Eve"]
+biology_3 = ["Alice", "Eve", "Frank"]
+
+specific_student = "Alice"
+result = check_student_enrollment(specific_student, biology_1, biology_2, biology_3)
+
+if result:
+    print(f"{specific_student} is enrolled in Biology 1 and at least one of Biology 2 or Biology 3.")
+else:
+    print(f"{specific_student} is not enrolled in both Biology 1 and either Biology 2 or Biology 3.")
+```
+
 ### 5. Activities (10 minutes)
 - **Activity 1**: Students work in pairs to create their own lists and write `if` statements to perform specific checks.
 - **Activity 2**: Pair Programming: One student writes the code, and the other reviews and suggests improvements.
