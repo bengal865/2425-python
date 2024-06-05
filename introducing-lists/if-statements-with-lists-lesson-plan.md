@@ -75,6 +75,23 @@ list3 = [6, 8, 10]
 check_common_elements(list1, list2, list3)
 ```
 ![Checking lists for common elements](check-common-list-elements-output.png)
+```python
+# Using sets to check for membership rather than Python lists
+def check_student_enrollment(student, biology_1, biology_2, biology_3):
+    return student in biology_1 and (student in biology_2 or student in biology_3)
+
+# Example usage:
+biology_1 = {"Alice", "Bob", "Charlie"}  # Use sets instead of lists
+biology_2 = {"Bob", "David", "Eve"}
+biology_3 = {"Alice", "Eve", "Frank"}
+
+specific_student = "Alice"
+result = check_student_enrollment(specific_student, biology_1, biology_2, biology_3)
+
+if result:
+    print(f"{specific_student} is enrolled in Biology 1 and at least one of Biology 2 or Biology 3.")
+else:
+    print(f"{specific_student} is not enrolled in both Biology 1 and either Biology 2 or Biology 3.")
 
 
 ### 4. Station Rotation (20 minutes)
