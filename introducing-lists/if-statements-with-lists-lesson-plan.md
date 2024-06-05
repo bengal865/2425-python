@@ -22,8 +22,7 @@ In this lesson, students will learn how to use **if statements** to manipulate P
 
 ### 3. Guided Practice (15 minutes)
 - **Activity 1**: Write a function that checks if a given element exists in a list.
-```
-python
+```python
 def element_exists(lst, target):
     return target in lst
 
