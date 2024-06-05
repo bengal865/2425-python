@@ -22,6 +22,16 @@ In this lesson, students will learn how to use **if statements** to manipulate P
 
 ### 3. Guided Practice (15 minutes)
 - **Activity 1**: Write a function that checks if a given element exists in a list.
+```
+python
+def element_exists(lst, target):
+    return target in lst
+
+# Example usage:
+my_list = [1, 6, 3, 5, 3, 4]
+target_element = 3
+print(element_exists(my_list, target_element))  # Output: True
+```
 - **Activity 2**: Create a list of students' names. Use an `if` statement to print a message if the list is empty.
 - **Activity 3**: Compare two lists (e.g., `list1` and `list2`) and print common elements.
 
