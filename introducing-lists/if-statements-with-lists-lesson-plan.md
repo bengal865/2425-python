@@ -74,6 +74,9 @@ list2 = [3, 5, 7, 9]
 list3 = [6, 8, 10]
 check_common_elements(list1, list2, list3)
 ```
+![Checking lists for common elements](check-common-list-elements-output.png)
+
+
 ### 4. Station Rotation (20 minutes)
 - **Station 1**: Write a program that prompts the user for a fruit name and checks if it's in the `fruits` list.
 - **Station 2**: Given a list of numbers, write a function to find the maximum value.
