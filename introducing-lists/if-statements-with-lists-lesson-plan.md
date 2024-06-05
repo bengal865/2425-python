@@ -32,6 +32,20 @@ my_list = [1, 6, 3, 5, 3, 4]
 target_element = 3
 print(element_exists(my_list, target_element))  # Output: True
 ```
+```python
+def element_exists_count(lst, target):
+    return lst.count(target) > 0
+
+# Example usage:
+print(element_exists_count(my_list, target_element))  # Output: True
+```
+```python
+def element_exists_count(lst, target):
+    return lst.count(target) > 0
+
+# Example usage:
+print(element_exists_count(my_list, target_element))  # Output: True
+```
 - **Activity 2**: Create a list of students' names. Use an `if` statement to print a message if the list is empty.
 - **Activity 3**: Compare two lists (e.g., `list1` and `list2`) and print common elements.
 
