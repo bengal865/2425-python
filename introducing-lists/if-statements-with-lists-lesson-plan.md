@@ -46,8 +46,34 @@ def element_exists_count(lst, target):
 print(element_exists_count(my_list, target_element))  # Output: True
 ```
 - **Activity 2**: Create a list of students' names. Use an `if` statement to print a message if the list is empty.
-- **Activity 3**: Compare two lists (e.g., `list1` and `list2`) and print common elements.
+```python
+# Create a list of students' names
+students = ["Alice", "Bob", "Charlie"]
 
+# Check if the list is empty using len()
+if len(students) == 0:
+    print("The list of students is empty.")
+else:
+    print("The list of students contains names.")
+
+# Output:
+# The list of students contains names.
+```
+- **Activity 3**: Compare three lists (e.g., `list1`, `list2` and `list3`) and print the common elements.
+```python
+def check_common_elements(list1, list2, list3):
+    for element in list1:
+        if element in list2 or element in list3:
+            print(f"{element} is present in either List 2 or List 3.")
+        else:
+            print(f"{element} is not present in either List 2 or List 3.")
+
+# Example usage:
+list1 = [1, 2, 3, 4, 5]
+list2 = [3, 5, 7, 9]
+list3 = [6, 8, 10]
+check_common_elements(list1, list2, list3)
+```
 ### 4. Station Rotation (20 minutes)
 - **Station 1**: Write a program that prompts the user for a fruit name and checks if it's in the `fruits` list.
 - **Station 2**: Given a list of numbers, write a function to find the maximum value.
