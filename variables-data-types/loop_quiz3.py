@@ -21,6 +21,6 @@ average = total / num_quiz_scores
 print('Here are your individual quiz scores:')
 print(*quiz_scores)  # Use unpacking for cleaner output
 print()
-print(f'And your average is: {average}')
+print(f'And your average is: {average:.2f}')
 print()
 print(f'Thank you, {first_name} and goodbye!')
