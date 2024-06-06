@@ -14,8 +14,8 @@ for i in range(num_quiz_scores):
   quiz_scores.append(quiz_score)
 
 # Calculate sum and average
-total = sum(quiz_scores)
-average = total / num_quiz_scores
+# total = sum(quiz_scores)
+average = (sum(quiz_scores)) / num_quiz_scores
 
 # Display the individual quiz scores, then the average score
 print('Here are your individual quiz scores:')
