@@ -28,8 +28,8 @@ num2_cubed = second_num ** 3
 # Display output
 print(f'First number: {first_num}')
 print(f'Second number: {second_num}\n')
-print(f'{first_num} squared is: {num1_squared}')
-print(f'{second_num} cubed is: {num2_cubed}\n')
+print(f'{first_num} raised to the power of 2 is: {num1_squared}')
+print(f'{second_num} raised to the power of 3 is: {num2_cubed}\n')
 time.sleep(2)
 print('Thank you for using my script!')
 print('Have a good day!')
