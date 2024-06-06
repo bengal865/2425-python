@@ -23,4 +23,4 @@ print(*quiz_scores)  # Use unpacking for cleaner output
 print()
 print(f'And your average is: {average}')
 print()
-print('Thank you, and goodbye!')
+print(f'Thank you, {first_name} and goodbye!')
