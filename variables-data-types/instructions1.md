@@ -56,3 +56,11 @@ number_of_pizzas = 5
          - Variable names written in lowercase
          - Used a short, descriptive name for each variable
          - Used underscore (_) for variable names made up of two or more words (`first_name`, `num_aliens`, `final_score`, etc.)
+     - Are there any syntax errors?
+     - Any logic errors?
+     - How could your partner's silly story be improved?
+ 
+## Silly Story 2.0
+
+- Add a few more variables
+- Make your story a little longer using `f-strings` and your extra variables
