@@ -47,3 +47,11 @@ verb_form_past = 'slithered'
 number_of_pizzas = 5
 ```
 -  Use the `print()` function and `f-strings` to help Python display your silly story on your screen
+
+## With Your Assigned Partner
+
+- Check your partner's silly story and give them some helpful and specific feedback
+    - Did your partner use a variety of variables to create the silly story?
+    - Did your partner follow the guidelines for naming Python variables?
+         - Variable names written in lowercase
+          - Used short, descriptive name for each variable
