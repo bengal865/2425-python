@@ -34,3 +34,16 @@
 - Create a GitHub repo named: **repo name**
     - Upload your project files to the repo
     - Submit the URL to your repo on Google Classroom
+ 
+## Directions
+
+- In your GitHub repo, create a new file named `main.py`
+- Don't forget to add a comment block to the top of your script
+- Define (create) 5 - 6 variables; assign a string to some of the variables, and numbers to the remaining varibles
+```python
+color = 'tangerine'
+adjective = 'foggy'
+verb_form_past = 'slithered'
+number_of_pizzas = 5
+```
+-  Use `f-strings` to help Python display your silly story on your screen
