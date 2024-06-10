@@ -25,7 +25,7 @@
 
 ## Resources & Examples
 
-- [Python variables](https://www.programiz.com/python-programming/variables-constants-literals)
+- [Python variables and data type examples](https://www.programiz.com/python-programming/variables-constants-literals)
 - [Python f-strings](https://www.w3schools.com/python/trypython.asp?filename=demo_fstring_placeholder)
 
 ## Project Tasks
