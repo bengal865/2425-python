@@ -54,4 +54,5 @@ number_of_pizzas = 5
     - Did your partner use a variety of variables to create the silly story?
     - Did your partner follow the guidelines for naming Python variables?
          - Variable names written in lowercase
-          - Used short, descriptive name for each variable
+         - Used a short, descriptive name for each variable
+         - Used underscore (_) for variable names made up of two or more words (`first_name`, `num_aliens`, `final_score`, etc.)
