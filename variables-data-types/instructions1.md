@@ -58,6 +58,7 @@ number_of_pizzas = 5
          - Used underscore (_) for variable names made up of two or more words (`first_name`, `num_aliens`, `final_score`, etc.)
      - Are there any syntax errors?
      - Any logic errors?
+     - What about spelling and grammar?  Are both correct?
      - How could your partner's silly story be improved?
  
 ## Silly Story 2.0
