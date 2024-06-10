@@ -37,7 +37,7 @@
  
 ## Directions
 
-- In your GitHub repo, create a new file named `main.py`
+- In your silly story repo, create a new file named `main.py`
 - Don't forget to add a comment block to the top of your script
 - Define (create) 5 - 6 variables; assign a string to some of the variables, and numbers to the remaining varibles
 ```python
