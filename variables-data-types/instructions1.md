@@ -1,9 +1,11 @@
 
-# Name of Assignment
+# Variables: Writing a Silly Story
 
 ## Objective
 
-> *Objective*
+> *Define and assign values to several Python variables*
+>
+> *Use the variables to write a silly story in Visual Studio Code*
 
 
 ## Sample Output
