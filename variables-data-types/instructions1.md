@@ -10,7 +10,7 @@
 
 ## Sample Output
 
-![Silly stoy output](sill-story-output.png)
+![Silly story output](silly-story-output.png)
 
 ## General Specifications
 
