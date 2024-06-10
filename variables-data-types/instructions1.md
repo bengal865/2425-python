@@ -25,12 +25,12 @@
 
 ## Resources & Examples
 
-- http://www.example.com
-- https://www.washingtonpost.com/
+- [Python variables](https://www.programiz.com/python-programming/variables-constants-literals)
+- [Python f-strings](https://www.w3schools.com/python/trypython.asp?filename=demo_fstring_placeholder)
 
 ## Project Tasks
 
-- Read instructions and review the project resources
+- Read the instructions and review the project resources
 - Create a GitHub repo named: **repo name**
     - Upload your project files to the repo
     - Submit the URL to your repo on Google Classroom
