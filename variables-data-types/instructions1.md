@@ -10,9 +10,7 @@
 
 ## Sample Output
 
-![Albuquerque, New Mexico](nm-desert1.jpg)
-
-*Desert landscape in New Mexico.*
+![Silly stoy output](sill-story-output.png)
 
 ## General Specifications
 
