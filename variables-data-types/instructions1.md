@@ -46,4 +46,4 @@ adjective = 'foggy'
 verb_form_past = 'slithered'
 number_of_pizzas = 5
 ```
--  Use `f-strings` to help Python display your silly story on your screen
+-  Use and `print()` function and `f-strings` to help Python display your silly story on your screen
