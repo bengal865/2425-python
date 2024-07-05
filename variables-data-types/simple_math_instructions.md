@@ -53,4 +53,4 @@ Divide one number by the other and show the equation and the remainder in your c
 - Then create the necessary variables and use the constant `PI` to calculate and display the area of a circle
 - Prompt the user to enter the length of the circle's radius (in **feet**)
 - Convert the user's input to a float using Python's built-in `float()` function
-- Display the area of the cirlce in **square feet**
+- Display the area of the circle in **square feet**
