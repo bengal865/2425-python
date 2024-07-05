@@ -1,6 +1,6 @@
 # Student name
 # Current date
-# Calculating Travel Time
+# Calculating Drive Times
 
 # Prompts user for distance and speed, and converts the input into integers
 distance = int(input("How many miles are you driving? "))
