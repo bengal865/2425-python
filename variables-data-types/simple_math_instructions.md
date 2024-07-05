@@ -48,6 +48,7 @@ Write a script that:
 Divide one number by the other and show the equation and the remainder in your console.
 
 ### Script 3
+- In your prompts and output, include the correct units of measure (feet, square feet, etc.)
 - Define a constant, **PI**, and assign it the value `3.14159`
 - Then create the variables and use the constant `PI` to calculate and display the area of a circle
 - Prompt the user to enter the length of the circle's radius (in feet)
