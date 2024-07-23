@@ -1,3 +1,7 @@
+# Abraham Lincoln
+# 04 SEP 20XX
+# Hello World
+
 import time
 
 delay = 5
