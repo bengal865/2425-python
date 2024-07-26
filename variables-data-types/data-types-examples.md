@@ -4,3 +4,4 @@
 | Float         | `amount = 78.50`  |
 | String        | `greet = 'Hello World'` |
 | Boolean       | `is_us_citizen = True` |
+| List          | `fruits = ['apple', 'grapes', 'orange', 'banana']` |
