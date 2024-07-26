@@ -31,6 +31,6 @@
 ## Project Tasks
 
 - Read instructions and review the project resources
-- Create a GitHub repo named: **repo name**
+- Create a **public** GitHub repo named: **repo name**
     - Upload your project files to the repo
     - Submit the URL to your repo on Google Classroom
